@@ -1,4 +1,8 @@
-### Hi there 👋
+### My other sites 👋
+[Codewars](https://www.codewars.com/users/Selfemra)   
+[HackerRank](https://www.hackerrank.com/profile/andrii_skorokhod)  
+[Rosalind](https://rosalind.info/users/Selfemra/)  
+[Kaggle](https://www.kaggle.com/andriiskorokhod42)  
 
 <!--
 **Selfemra/Selfemra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
