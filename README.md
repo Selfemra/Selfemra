@@ -4,6 +4,8 @@
 [Rosalind](https://rosalind.info/users/Selfemra/)  
 [Kaggle](https://www.kaggle.com/andriiskorokhod42)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selfemra&langs_count=20)
+
 <!--
 **Selfemra/Selfemra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
